@@ -16,14 +16,25 @@ The dataset is released by the Aarhus University Signal Processing group in coll
 
 The following libraries are used in this project
 keras
+
 tensorflow
+
 time
+
 glob
+
 matplotlib
+
 zipfile
+
 os
+
 sklearn
+
 numpy 
+
 pandas
+
 cv2
+
 PIL
