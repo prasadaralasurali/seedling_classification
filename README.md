@@ -1,6 +1,6 @@
 ****Classification of Plant Seedlings using CNN****
 
-Raghavendra Prasad Savada
+Raghavendra Prasad Savada\n
 Nov 15, 2018
 
 In this project, a Convolutional Neural Network (CNN) has been built to classify crop and weed species at seedling stage.
