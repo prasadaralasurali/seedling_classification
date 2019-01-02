@@ -15,6 +15,7 @@ https://vision.eng.au.dk/plant-seedlings-dataset/ (file name; V1: Nonsegmented s
 The dataset is released by the Aarhus University Signal Processing group in collaboration with University of Southern Denmark (Giselsson TM, Jørgensen RN, Jensen PK, Dyrmann M, Midtiby HS (2017) A Public Image Database for Benchmark of Plant Seedling Classification Algorithms. CoRR abs/1711.05458) 
 
 The following libraries are used in this project
+
 keras
 
 tensorflow
