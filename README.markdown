@@ -1,4 +1,4 @@
-**** Classification of Plant Seedlings using CNN ****
+**Classification of Plant Seedlings using CNN**
 
 Raghavendra Prasad Savada
 Nov 15, 2018
