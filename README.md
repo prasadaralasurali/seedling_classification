@@ -1,4 +1,4 @@
-****Classification of Plant Seedlings using CNN****
+****Classification of Plant Seedlings Using CNN****
 
 Raghavendra Prasad Savada
 
