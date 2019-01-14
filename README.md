@@ -40,3 +40,6 @@ pandas
 cv2
 
 PIL
+
+**Note: this capstone proejct is a part of Machine Learning Engineer Nanodegree from Udacity**
+
